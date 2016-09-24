@@ -1,6 +1,8 @@
 Asteroids
 =========
 
+**NOTE**: A new and improved version of this project can be found [here](https://github.com/philpee2/Functional-Asteroids)
+
 ## Overview
 
 A simple variant on the original arcade game. A deployed version of Asteroids can be found [here](https://philnachumasteroids.firebaseapp.com/). 
